@@ -17,6 +17,9 @@ body{
  .landing h1{
   color: #fff;
 }
+.landing h2{
+    color: #bbb;
+  }
 .landing .btn-primary{
     box-shadow: none !important;
     padding: 8px 25px;
